@@ -10,7 +10,7 @@ body {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  width: 100%;
+  width: 100vw;
 }
 
 .menu > a > h3 {
